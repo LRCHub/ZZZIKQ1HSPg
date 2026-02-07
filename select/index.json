@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Good Morning",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T15:19:54.322304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Morning Beautiful",
+      "artist": "Steve Holy",
+      "has_synced": true,
+      "path": "select/01_Good_Morning_Beautiful_Steve_Holy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Morning Jennyville",
+      "artist": "Jenny Tolman",
+      "has_synced": false,
+      "path": "select/02_Good_Morning_Jennyville_Jenny_Tolman.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning - Live",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/03_Kiss_An_Angel_Good_Morning_-_Live_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning (Live)",
+      "artist": "Charlie Pryde",
+      "has_synced": false,
+      "path": "select/04_Kiss_An_Angel_Good_Morning_(Live)_Charlie_Pryde.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello Good Morning - Remix",
+      "artist": "Diddy - Dirty Money feat. Nicki Minaj & Rick Ross",
+      "has_synced": true,
+      "path": "select/05_Hello_Good_Morning_-_Remix_Diddy_-_Dirty_Money_feat._Nicki_Minaj_&_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello Good Morning (Remix) Feat Rick Ross",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/06_Hello_Good_Morning_(Remix)_Feat_Rick_Ross_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello Good Morning (Remix) [feat. Nicki Minaj & Rick Ross]",
+      "artist": "Diddy - Dirty Money",
+      "has_synced": true,
+      "path": "select/07_Hello_Good_Morning_(Remix)_[feat._Nicki_Minaj_&_Rick_Ross]_Diddy_-_Dirty_Money.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Morning Judge",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/08_Good_Morning_Judge_10cc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Morning Blues",
+      "artist": "Lead Belly",
+      "has_synced": false,
+      "path": "select/09_Good_Morning_Blues_Lead_Belly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Morning Melody",
+      "artist": "Lullatone",
+      "has_synced": false,
+      "path": "select/10_Good_Morning_Melody_Lullatone.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Morning Little School Girl",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/11_Good_Morning_Little_School_Girl_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Morning Heartache",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": false,
+      "path": "select/12_Good_Morning_Heartache_Ol’_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Morning Mr. Edminton",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/13_Good_Morning_Mr._Edminton_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Morning Mr. Railroad Man",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/14_Good_Morning_Mr._Railroad_Man_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Morning America",
+      "artist": "Moistboyz",
+      "has_synced": false,
+      "path": "select/15_Good_Morning_America_Moistboyz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Morning Little Schoolgirl",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/16_Good_Morning_Little_Schoolgirl_Rod_Stewart.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Morning/Gon' Ride (Interlude)",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Morning_Gon'_Ride_(Interlude)_Ne-Yo.txt"
+    }
+  ]
+}
